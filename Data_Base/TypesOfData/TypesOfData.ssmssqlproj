@@ -25,6 +25,12 @@
           <AssociatedConnUserName />
           <FullPath>BOOL_TYPE.sql</FullPath>
         </FileNode>
+        <FileNode Name="DATEANDTIME.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DATEANDTIME.sql</FullPath>
+        </FileNode>
         <FileNode Name="INT_TYPE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
