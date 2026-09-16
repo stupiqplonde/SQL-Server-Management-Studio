@@ -45,8 +45,6 @@ GO
 ALTER TABLE Persons.Client
 ADD id int PRIMARY KEY IDENTITY(1,1) NOT NULL;
 GO
-lkmlklkmj
-
 
 
 CREATE TABLE Products.Product
