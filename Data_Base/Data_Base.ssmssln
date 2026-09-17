@@ -13,6 +13,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SCHEMAS", "SCHEMAS\SCHEMAS.
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FUNCTIONS", "FUNCTIONS\FUNCTIONS.ssmssqlproj", "{D3905C33-209F-4F55-8650-2A60EED8B643}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Скрипты SQL Server", "Скрипты SQL Server\Скрипты SQL Server.ssmssqlproj", "{B0852296-C4D6-4DE8-9B6F-FDE4A339B4D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -23,7 +25,8 @@ Global
 		{B51DBF1A-3CD5-490F-90B7-9BDC2E57581D}.Default|Default.ActiveCfg = Default
 		{D53FDF79-236B-43B1-9C48-52CE76F6E0D6}.Default|Default.ActiveCfg = Default
 		{D3905C33-209F-4F55-8650-2A60EED8B643}.Default|Default.ActiveCfg = Default
-		{49642E35-5EB0-4CD6-8711-818D3F06DF00}.Default|Default.ActiveCfg = Default
+		{689BACD0-CC5E-4559-8B90-356A3702810E}.Default|Default.ActiveCfg = Default
+		{B0852296-C4D6-4DE8-9B6F-FDE4A339B4D1}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
