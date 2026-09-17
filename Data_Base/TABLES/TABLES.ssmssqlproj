@@ -25,6 +25,12 @@
           <AssociatedConnUserName />
           <FullPath>FEELING_TABLE.sql</FullPath>
         </FileNode>
+        <FileNode Name="STORE_DATA.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>STORE_DATA.sql</FullPath>
+        </FileNode>
         <FileNode Name="TABLE_ADD.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
@@ -36,6 +42,12 @@
           <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>TABLE_REWRITE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TABLES_RELATIONS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TABLES_RELATIONS.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
