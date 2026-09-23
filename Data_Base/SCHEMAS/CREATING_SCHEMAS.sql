@@ -1,11 +1,7 @@
-USE Data_Base_2
+USE TestIndex
+go 
+WHILE 1 = 1
+	SELECT * 
+	INTO onders2
+	FROM orders
 go
---CREATE SCHEMA departament
---go
---CREATE SCHEMA customers
---go
---CREATE TABLE departament.person(id int, name varchar)
---CREATE TABLE clients.person(id int, name varchar)
-
-ALTER SCHEMA customers
-	TRANSFER departament.person
