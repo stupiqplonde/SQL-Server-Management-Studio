@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataShop", "DataShop\DataShop.ssmssqlproj", "{D579A6FC-DFF3-4A07-B6F2-BA9B07C3C8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D579A6FC-DFF3-4A07-B6F2-BA9B07C3C8BA}.Default|Default.ActiveCfg = Default
+		{E8D007A8-CCAF-4842-B9D3-720B493967EC}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA009B2F-7E8F-42FE-9845-1DBB58F1E3D0}
+	EndGlobalSection
+EndGlobal
