@@ -1,19 +1,6 @@
 use [DataBase]
 go
 
---DROP TABLE Orders
---go
---DROP TABLE Products
---go
---DROP TABLE Brands
---go
---DROP TABLE Categories
---go
---DROP TABLE Suppliers
---go
---DROP TABLE Warehouses
---go
-
 CREATE TABLE Warehouses
 (
 	WarehouseID int PRIMARY KEY IDENTITY(1, 1),
